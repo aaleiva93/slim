@@ -31,6 +31,6 @@ $app->group("/api", function() use ($app){
 	});
 });
 	
-$app->run();
+$ap.p->run();
 
 ?>
